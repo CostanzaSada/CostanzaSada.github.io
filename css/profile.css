@@ -3,13 +3,22 @@
 }
 
 .card{
-	border: solid #708fc1 1px;
+	border: solid #132d56 20px;
 	border-radius: 7px;
 	padding: 10px;
 	margin-bottom: 10px;
 	background: transparent;
 }
 body{ 
-	background: #eae9b6;
+	background: #dee4ed;
 	font-family: "Open Sans", Arial, sans-serif;
+}
+
+.italy {
+    background-image: url("../img/data.jpg");
+    min-height:100%;
+}
+
+.display-3{
+	color: white;
 }
