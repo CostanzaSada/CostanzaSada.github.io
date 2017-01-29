@@ -1,0 +1,15 @@
+.profile-pic{
+	max-width: 50%;
+}
+
+.card{
+	border: solid #708fc1 1px;
+	border-radius: 7px;
+	padding: 10px;
+	margin-bottom: 10px;
+	background: transparent;
+}
+body{ 
+	background: #eae9b6;
+	font-family: "Open Sans", Arial, sans-serif;
+}
